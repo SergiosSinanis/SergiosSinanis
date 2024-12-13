@@ -1,8 +1,6 @@
 <div style="font-family: 'Montserrat', sans-serif; font-size: 14px; line-height: 1.6;">
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm thrilled to have you here. 🌟
-
 ## 🚀 About Me
 
 I thrive on challenges and love to learn new technologies. I'm a passionate coder and tech enthusiast who loves tackling challenges and building innovative solutions. I believe in the power of collaboration and continuous learning, and I'm always on the lookout for exciting projects to be a part of.
