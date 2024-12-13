@@ -1,8 +1,8 @@
 <div style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 1.6;">
 
-<strong style="font-size: 26px;">Hi there! 👋</strong>  
+<strong style="font-size: 32px;">Hi there! 👋</strong>  
 
-<strong style="font-size: 26px;">🚀 About Me</strong> 
+<strong style="font-size: 32px;">🚀 About Me</strong> 
 
 I thrive on challenges and love to learn new technologies. I'm a passionate coder and tech enthusiast who loves tackling challenges and building innovative solutions. I believe in the power of collaboration and continuous learning, and I'm always on the lookout for exciting projects to be a part of.
 
@@ -10,7 +10,7 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 
 Visit my profile!
 
-<strong style="font-size: 26px;">🛠️ **Languages & Technologies**</strong>  
+<strong style="font-size: 32px;">🛠️ **Languages & Technologies**</strong>  
 
 - **C**: ⭐⭐⭐
 - **Python**: ⭐⭐⭐
@@ -20,7 +20,7 @@ Visit my profile!
 - **ASP.NET Core**: ⭐⭐
 - **Operating Systems**: Linux, macOs, Windows
 
-<strong style="font-size: 26px;">⚙️ **Tools I Use**</strong> 
+<strong style="font-size: 32px;">⚙️ **Tools I Use**</strong> 
 
 - GitHub
 - GitLab
@@ -29,14 +29,14 @@ Visit my profile!
 - Visual Studio
 - JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
-<strong style="font-size: 26px;">🌍 **Languages**</strong> 
+<strong style="font-size: 32px;">🌍 **Languages**</strong> 
 
 - **🇫🇷 French** (Fluent)
 - **🇬🇧 English** (Bilingual)
 - **🇬🇷 Greek** (Fluent)
 - **🇪🇸 Spanish** (Beginner)
 
-<strong style="font-size: 26px;">💬 **Let's Connect!**</strong> 
+<strong style="font-size: 32px;">💬 **Let's Connect!**</strong> 
 
 I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through [Discord](ssinanis).
 
