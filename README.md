@@ -1,4 +1,4 @@
-<div style="font-family: 'Montserrat', sans-serif; font-size: 14px;">
+<div style="font-family: 'Montserrat', sans-serif; font-size: 14px; line-height: 1.6;">
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm thrilled to have you here. 🌟
