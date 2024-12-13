@@ -1,6 +1,6 @@
 <div style="font-family: 'Montserrat', sans-serif; font-size: 14px; line-height: 1.6;">
-# Hi there! 👋
 
+<strong style="font-size: 20px;">Hi there! 👋</strong>  
 
 <strong style="font-size: 20px;">🚀 About Me</strong> 
 
