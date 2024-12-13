@@ -10,6 +10,7 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 
 Visit my profile!
 
+<strong style="font-size: 20px;">🛠️ **Languages & Technologies**</strong>  
 ### 🛠️ **Languages & Technologies**
 
 - **C**: ⭐⭐⭐
@@ -20,6 +21,7 @@ Visit my profile!
 - **ASP.NET Core**: ⭐⭐
 - **Operating Systems**: Linux, macOs, Windows
 
+<strong style="font-size: 20px;">⚙️ **Tools I Use**</strong> 
 ### ⚙️ **Tools I Use**
 
 - GitHub
@@ -29,6 +31,7 @@ Visit my profile!
 - Visual Studio
 - JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
+<strong style="font-size: 20px;">🌍 **Languages**</strong> 
 ### 🌍 **Languages**
 
 - **🇫🇷 French** (Fluent)
@@ -36,6 +39,7 @@ Visit my profile!
 - **🇬🇷 Greek** (Fluent)
 - **🇪🇸 Spanish** (Beginner)
 
+<strong style="font-size: 20px;">💬 **Let's Connect!**</strong> 
 ### 💬 **Let's Connect!**
 
 I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through [Discord](ssinanis).
