@@ -6,7 +6,7 @@
 - 🌎 BSc Economist
 - 🌱 42-Paris Alumni
 - 🔭 Currently Learning
-- 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Contact me in these languages
+- 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Languages I Speak
 
 
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
@@ -19,12 +19,12 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 <strong style="font-size: 32px;">🖥️ **Languages & Frameworks**</strong>  
 ---
 
-- **C**: ⭐⭐⭐
-- **Python**: ⭐⭐⭐
-- **C# (.NET 7 / .NET 8)**: ⭐⭐⭐
-- **HTML/CSS**: ⭐⭐
-- **JavaScript**: ⭐⭐
-- **ASP.NET Core**: ⭐⭐
+- **C**: 💡💡💡
+- **Python**: 💡💡💡
+- **C# (.NET 7 / .NET 8)**: 💡💡💡
+- **HTML/CSS**: 💡💡
+- **JavaScript**: 💡💡
+- **ASP.NET Core**: 💡💡
 - **Operating Systems**: Linux, macOs, Windows
 
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
