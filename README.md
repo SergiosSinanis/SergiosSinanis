@@ -8,13 +8,13 @@
 - 🔭 Currently Learning
 - 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Languages I Speak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-username/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@gmail.com)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&logoWidth=30)](https://www.linkedin.com/in/your-username/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square&logoWidth=30)](mailto:your-email@gmail.com)
 
 
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
