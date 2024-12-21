@@ -5,7 +5,7 @@
 
 - 📈 BSc Economist
 - 🌱 42-Paris
-- 🇺🇸 🇫🇷 🇬🇷 🇪🇸
+- 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Contact me in these languages
 
 
 <strong style="font-size: 32px;">🚀 About Me</strong> 
@@ -37,14 +37,6 @@ Visit my profile!
 - Visual Studio Code
 - Visual Studio
 - JetBrains IDEs (IntelliJ, PyCharm, Rider)
-
-<strong style="font-size: 32px;">🌍 **Languages**</strong> 
----
-
-- **🇫🇷 French** (Fluent)
-- **🇬🇧 English** (Bilingual)
-- **🇬🇷 Greek** (Fluent)
-- **🇪🇸 Spanish** (Beginner)
 
 <strong style="font-size: 32px;">💬 **Let's Connect!**</strong> 
 ---
