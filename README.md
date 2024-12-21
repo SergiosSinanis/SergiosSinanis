@@ -16,8 +16,6 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 
 [CodinGame](https://www.codingame.com/profile/a93e22eb1157401723b3617a7d87669f2853436)
 
-Visit my profile!
-
 <strong style="font-size: 32px;">🖥️ **Languages & Frameworks**</strong>  
 ---
 
