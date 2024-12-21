@@ -3,8 +3,9 @@
 <strong style="font-size: 44px;">Hi there! 👋</strong>  
 ---
 
-- 📈 BSc Economist
+- 🌎 BSc Economist
 - 🌱 42-Paris
+- 🔭 Learning
 - 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Contact me in these languages
 
 
@@ -17,7 +18,7 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 
 Visit my profile!
 
-<strong style="font-size: 32px;">🛠️ **Languages & Technologies**</strong>  
+<strong style="font-size: 32px;">🖥️ **Languages & Technologies**</strong>  
 ---
 
 - **C**: ⭐⭐⭐
@@ -38,7 +39,7 @@ Visit my profile!
 - Visual Studio
 - JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
-<strong style="font-size: 32px;">💬 **Let's Connect!**</strong> 
+<strong style="font-size: 32px;">🌐 **Let's Connect!**</strong> 
 ---
 
 I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through [Discord](ssinanis).
