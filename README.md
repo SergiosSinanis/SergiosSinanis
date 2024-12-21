@@ -18,7 +18,7 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 
 Visit my profile!
 
-<strong style="font-size: 32px;">🖥️ **Languages & Technologies**</strong>  
+<strong style="font-size: 32px;">🖥️ **Languages & Frameworks**</strong>  
 ---
 
 - **C**: ⭐⭐⭐
