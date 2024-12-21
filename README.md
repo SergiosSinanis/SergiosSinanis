@@ -6,7 +6,7 @@
 - 🌎 BSc Economist
 - 🌱 42-Paris Alumni
 - 🔭 Currently Learning
-- 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Languages I Speak
+- 🇫🇷 🇺🇸 🇬🇷 🇪🇸 Languages I Speak
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergios-sinanis/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sergio.sinanis@gmail.com)
