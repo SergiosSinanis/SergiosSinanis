@@ -9,17 +9,8 @@
 - 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Languages I Speak
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-username/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&logoWidth=30)](https://www.linkedin.com/in/your-username/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square&logoWidth=30)](mailto:your-email@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&width=1000)](https://www.linkedin.com/in/your-username/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square&width=1000)](mailto:your-email@gmail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergios-sinanis/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sergio.sinanis@gmail.com)
 
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
 ---
