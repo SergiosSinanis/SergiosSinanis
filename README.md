@@ -2,6 +2,13 @@
 
 <strong style="font-size: 44px;">Hi there! 👋</strong>  
 
+---
+
+- 📈 BSc Economist
+- 🌱 42-Paris
+- 🇺🇸 🇫🇷 🇬🇷 🇪🇸
+
+
 <strong style="font-size: 32px;">🚀 About Me</strong> 
 
 I thrive on challenges and love to learn new technologies. I'm a passionate coder and tech enthusiast who loves tackling challenges and building innovative solutions. I believe in the power of collaboration and continuous learning, and I'm always on the lookout for exciting projects to be a part of.
