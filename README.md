@@ -4,12 +4,12 @@
 ---
 
 - 🌎 BSc Economist
-- 🌱 42-Paris
-- 🔭 Learning
+- 🌱 42-Paris Alumni
+- 🔭 Currently Learning
 - 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Contact me in these languages
 
 
-<strong style="font-size: 32px;">🚀 About Me</strong> 
+<strong style="font-size: 32px;">🚀 Professional Summary</strong> 
 ---
 
 I thrive on challenges and love to learn new technologies. I'm a passionate coder and tech enthusiast who loves tackling challenges and building innovative solutions. I believe in the power of collaboration and continuous learning, and I'm always on the lookout for exciting projects to be a part of.
@@ -27,20 +27,17 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 - **ASP.NET Core**: ⭐⭐
 - **Operating Systems**: Linux, macOs, Windows
 
-<strong style="font-size: 32px;">⚙️ **Tools I Use**</strong> 
+<strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
 
-- GitHub
-- GitLab
-- Docker
-- Visual Studio Code
-- Visual Studio
-- JetBrains IDEs (IntelliJ, PyCharm, Rider)
+- 🔀 Version Control: GitHub, GitLab
+- 🐳 Containerization: Docker
+- ⌨️ Code Editors/IDEs: Visual Studio Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
-<strong style="font-size: 32px;">🌐 **Let's Connect!**</strong> 
+<strong style="font-size: 32px;">🌐 **Connect with me**</strong> 
 ---
 
-I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through [Discord](ssinanis).
+I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through Discord.
 
 Thanks for stopping by! Don't forget to check out my repositories and feel free to star any projects you like. 🚀
 
