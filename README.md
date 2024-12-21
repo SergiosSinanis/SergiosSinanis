@@ -8,6 +8,8 @@
 - 🔭 Currently Learning
 - 🇺🇸 🇫🇷 🇬🇷 🇪🇸 Languages I Speak
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
 ---
