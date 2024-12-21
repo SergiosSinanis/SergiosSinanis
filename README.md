@@ -30,9 +30,9 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
 
-- 🔀 Version Control: GitHub, GitLab
-- 🐳 Containerization: Docker
-- ⌨️ Code Editors/IDEs: Visual Studio Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
+- 🔀 **Version Control**: GitHub, GitLab
+- 🐳 **Containerization**: Docker
+- ⌨️ **Code Editors/IDEs**: Visual Studio Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
 <strong style="font-size: 32px;">🌐 **Connect with me**</strong> 
 ---
