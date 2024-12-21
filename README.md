@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sergio.sinanis@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&logoWidth=50&width=200)](https://www.linkedin.com/in/sergios-sinanis/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square&logoWidth=50&width=200)](mailto:sergio.sinanis@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square&logoWidth=100&width=200)](mailto:sergio.sinanis@gmail.com)
 
 
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
