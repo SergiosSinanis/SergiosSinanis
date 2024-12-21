@@ -39,6 +39,7 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 
 I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through Discord.
 
+
 Thanks for stopping by! Don't forget to check out my repositories and feel free to star any projects you like. 🚀
 
 <!--
