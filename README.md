@@ -21,11 +21,11 @@ I thrive on challenges and love to learn new technologies. I'm a passionate code
 <strong style="font-size: 32px;">🖥️ **Languages & Frameworks**</strong>  
 ---
 
-- 🖥️ C: ✨✨✨
+- 👾 C: ✨✨✨
 - 🐍 Python: ✨✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨✨
-- 🌐 HTML/CSS: ✨✨
-- 🌍 JavaScript: ✨✨
+- 📄 HTML/CSS: ✨✨
+- 💡 JavaScript: ✨✨
 - 🔧 ASP.NET Core: ✨✨
 - 🐧 Linux, 🍏 macOS, 🪟 Windows: 
 
