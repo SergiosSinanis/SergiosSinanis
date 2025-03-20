@@ -5,7 +5,7 @@
 
 - 🌱 42-Paris Alumni
 - 🔭 Currently Learning
-- - 🌎 BSc Economist
+- 🌎 BSc Economist
 - 🇫🇷 🇺🇸 🇬🇷 🇪🇸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergios-sinanis/)
