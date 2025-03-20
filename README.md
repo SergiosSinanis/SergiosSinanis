@@ -40,7 +40,7 @@ I'm an emerging developer and tech enthusiast with a background in business/fina
 <strong style="font-size: 32px;">🌐 **Connect with me**</strong> 
 ---
 
-I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through Discord.
+I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through Discord or e-mail.
 
 
 Thanks for stopping by! Check out my repositories and feel free to star any projects you like. 🚀
