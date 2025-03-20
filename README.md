@@ -28,7 +28,7 @@ I'm an emerging developer and tech enthusiast with a background in business/fina
 - 📄 HTML/CSS: ✨
 - 💡 JavaScript: ✨
 - 🔧 ASP.NET Core: ✨
-- 🐧 Linux, 🍏 macOS, 🪟 Windows 
+- 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
