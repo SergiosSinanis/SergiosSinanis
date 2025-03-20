@@ -43,7 +43,7 @@ I'm an emerging developer and tech enthusiast with a background in business/fina
 I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through Discord.
 
 
-Thanks for stopping by! Don't forget to check out my repositories and feel free to star any projects you like. 🚀
+Thanks for stopping by! Check out my repositories and feel free to star any projects you like. 🚀
 
 <!--
 **SergiosSinanis/SergiosSinanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
