@@ -3,9 +3,9 @@
 <strong style="font-size: 44px;">Hi there! 👋</strong>  
 ---
 
-- 🌎 BSc Economist
 - 🌱 42-Paris Alumni
 - 🔭 Currently Learning
+- - 🌎 BSc Economist
 - 🇫🇷 🇺🇸 🇬🇷 🇪🇸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergios-sinanis/)
