@@ -24,7 +24,7 @@ I'm an emerging developer and tech enthusiast with a background in business/fina
 - 👾 C: ✨✨✨✨
 - ⚙️ C++: ✨✨✨✨
 - 🐍 Python: ✨✨
-- 💻 C# (.NET 7 / .NET 8): ✨
+- 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨
 - 💡 JavaScript: ✨
 - 🔧 ASP.NET Core: ✨
