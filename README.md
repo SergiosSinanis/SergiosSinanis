@@ -99,7 +99,7 @@ I'm a back-end developer with a background in business, finance and media produc
 - ⚙️ C++: ✨✨✨✨
 - 🐍 Python: ✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
-- 📄 HTML/CSS: ✨
+- 📄 HTML/CSS: ✨✨
 - 💡 JavaScript: ✨
 - 🔧 ASP.NET Core: ✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
