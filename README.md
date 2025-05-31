@@ -1,8 +1,7 @@
 <div style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 1.6;">
 
-<p align="center">
-  <strong style="font-size: 44px;">Hi there! 👋</strong>
-</p>
+
+<strong style="font-size: 44px;">Hi there! 👋</strong>
 ---
 
 - 🌱 42-Paris Alumni
