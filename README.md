@@ -101,6 +101,7 @@ I'm a back-end developer with a background in business, finance and media produc
 - 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨✨
 - 💡 JavaScript: ✨
+- 🧠 Next.js: ✨
 - 🔧 ASP.NET Core: ✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 
@@ -109,7 +110,7 @@ I'm a back-end developer with a background in business, finance and media produc
 
 - 🔀 **Version Control Tools**: Git, GitHub, GitLab
 - 🐳 **Containerization software**: Docker
-- ⌨️ **Code Editors/IDEs**: Visual Studio Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
+- ⌨️ **Code Editors/IDEs**: VS Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
 <strong style="font-size: 32px;">🌐 **Connect with me**</strong> 
 ---
