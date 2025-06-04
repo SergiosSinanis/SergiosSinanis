@@ -44,15 +44,19 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
+<!--
   <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
     <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   </a>
+  -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </a>
+  <!--
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   </a>
+-->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
@@ -81,28 +85,33 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
+<!--  
+<a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="40" height="40"/>
   </a>
+-->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
+<!--  
+<a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   </a>
+-->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
-- 👾 C: ✨✨✨✨
-- ⚙️ C++: ✨✨✨✨
+- 👾 C: ✨✨✨
+- ⚙️ C++: ✨✨✨
 - 🐍 Python: ✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨✨
 - 💡 JavaScript: ✨
 - 🧠 Next.js: ✨
-- 🔧 ASP.NET Core: ✨
+<!-- - 🔧 ASP.NET Core: ✨
+-->
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
