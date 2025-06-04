@@ -76,12 +76,14 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<!--  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
+-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -109,7 +111,7 @@ I'm a back-end developer with a background in business, finance and media produc
 - 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨✨
 - 💡 JavaScript: ✨
-- 🧠 Next.js: ✨
+- 🧠 React.js: ✨
 <!-- - 🔧 ASP.NET Core: ✨
 -->
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
