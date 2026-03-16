@@ -147,10 +147,10 @@ I'm a back-end developer with a background in business, finance and media produc
 - 💡 TypeScript/JavaScript: ✨✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨✨✨
+- 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 <!-- - 🧠 React.js: ✨
 - 🔧 ASP.NET Core: ✨
 -->
-- 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
