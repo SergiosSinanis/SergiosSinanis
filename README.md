@@ -133,12 +133,12 @@ I'm a back-end developer with a background in business, finance and media produc
 - ⚙️ C++: ✨✨✨
 - 👾 C: ✨✨✨
 - 🐍 Python: ✨✨✨
-- 💡 TypeScript/JavaScript: ✨✨✨
+- 💡 TypeScript/JavaScript: ✨✨
 - 🗄️ MySQL: ✨✨
 - 🐘 PHP: ✨✨
 - ☁️ Google Cloud Platform: ✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
-- 📄 HTML/CSS: ✨✨✨
+- 📄 HTML/CSS: ✨✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 <!-- - 🧠 React.js: ✨
 - 🔧 ASP.NET Core: ✨
