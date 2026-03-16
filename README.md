@@ -34,11 +34,11 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -147,7 +147,7 @@ I'm a back-end developer with a background in business, finance and media produc
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
 
-- 🔀 **Version Control Tools**: Git, GitHub, GitLab
+- 🔀 **Version Control Tools**: Git, GitHub/GitLab, BitBucket
 - 🐳 **Containerization software**: Docker
 - ⌨️ **Code Editors/IDEs**: VS Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
