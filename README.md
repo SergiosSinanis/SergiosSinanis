@@ -40,15 +40,15 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
-
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   </a>
-  
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
-  
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   </a>
@@ -67,9 +67,6 @@ I'm a back-end developer with a background in business, finance and media produc
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   </a>
 -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   </a>
@@ -141,10 +138,10 @@ I'm a back-end developer with a background in business, finance and media produc
 - ⚙️ C++: ✨✨✨
 - 👾 C: ✨✨✨
 - 🐍 Python: ✨✨✨
+- 💡 TypeScript/JavaScript: ✨✨✨
 - 🗄️ MySQL: ✨✨
 - 🐘 PHP: ✨✨
 - ☁️ Google Cloud Platform: ✨✨
-- 💡 TypeScript/JavaScript: ✨✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨✨✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
