@@ -164,8 +164,7 @@ I'm a back-end developer with a background in business, finance and media produc
 <strong style="font-size: 32px;">🌐 **Connect with me**</strong> 
 ---
 
+Thanks for stopping by! Check out my repositories and feel free to star any projects you like. 🚀
+
 I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through [Discord](https://discord.com/users/1158834543353151599) or by
 [e-mail](mailto:sergio.sinanis@gmail.com).
-
-
-Thanks for stopping by! Check out my repositories and feel free to star any projects you like. 🚀
