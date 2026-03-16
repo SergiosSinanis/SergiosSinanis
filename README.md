@@ -144,7 +144,7 @@ I'm a back-end developer with a background in business, finance and media produc
 - 🐘 PHP: ✨✨
 - ☁️ Google Cloud Platform: ✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
-- 📄 HTML/CSS: ✨✨✨✨
+- 📄 HTML/CSS: ✨✨✨
 <div style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 1.6;">
 
 
