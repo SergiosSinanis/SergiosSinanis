@@ -16,7 +16,7 @@
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
 ---
 
-I'm a back-end developer with a background in business, finance and media production. Currently expanding my technical skills and gaining hands-on experience at 42 Ecole Paris, I thrive on challenges and continuous learning by tackling challenges and building innovative solutions. Having a strong interest in Web3, blockchain, and fintech, I'm always looking for exciting projects to contribute to!
+I'm a back-end developer with a background in business, finance and media production. Currently expanding my technical skills and gaining hands-on experience at 42 Ecole Paris, I thrive on challenges and continuous learning by tackling challenges and building innovative solutions. Having a strong interest in Web3, infrastructre and cybersecurity, I'm always looking for exciting projects to contribute to!
 
 <strong style="font-size: 32px;">🖥️ **Languages & Tools**</strong>  
 ---
