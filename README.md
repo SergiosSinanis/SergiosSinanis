@@ -157,7 +157,7 @@ I'm a back-end developer with a background in business, finance and media produc
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
 
-- 🔀 **Version Control Tools**: Git, GitHub/GitLab, Bitbucket
+- 🧑‍💻 **Version Control Tools**: Git, GitHub/GitLab, Bitbucket
 - 🐳 **Containerization software**: Docker
 - ⌨️ **Code Editors/IDEs**: VS Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
