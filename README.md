@@ -1,7 +1,7 @@
 <!-- <div style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 1.6;">
 
 <strong style="font-size: 44px;">Hi there! 👋</strong>
----
+-->
 
 - 🌱 42-Paris
 - 🔭 Currently Learning
