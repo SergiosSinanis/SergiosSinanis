@@ -144,17 +144,27 @@ I'm a back-end developer with a background in business, finance and media produc
 - 🔧 ASP.NET Core: ✨
 -->
 
+<strong style="font-size: 32px;">🌐 Network & Infrastructure Architecture</strong>
+
+- 🔑 Client-server-database architecture & API interaction patterns
+- ⚙️ REST API design & service separation
+- 🛡️ Network security awareness: (firewalls, ports, TLS, secure protocols)
+- 🔍 Containerized service environments & dependency isolation using Docker  
+- 📡 Deployment flow awareness (build → package → runtime environment configuration)  
+- 🔗 Load balancing & reverse proxy fundamentals
+
 <strong style="font-size: 32px;">⚙️ **Development Tools**</strong> 
 ---
 
-- 🔀 **Version Control Tools**: Git, GitHub/GitLab, BitBucket
+- 🔀 **Version Control Tools**: Git, GitHub/GitLab, Bitbucket
 - 🐳 **Containerization software**: Docker
 - ⌨️ **Code Editors/IDEs**: VS Code, Visual Studio, JetBrains IDEs (IntelliJ, PyCharm, Rider)
 
 <strong style="font-size: 32px;">🌐 **Connect with me**</strong> 
 ---
 
-I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through Discord or by e-mail.
+I’m always open to discussing new ideas, collaborations, or just chatting about tech! Feel free to reach out to me through [[Discord](https://discord.com/users/1158834543353151599) or by
+[[e-mail]((mailto:sergio.sinanis@gmail.com).
 
 
 Thanks for stopping by! Check out my repositories and feel free to star any projects you like. 🚀
