@@ -119,12 +119,30 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
 </p>
 
 - ⚙️ C++: ✨✨✨
 - 👾 C: ✨✨✨
 - 💡 TypeScript/JavaScript: ✨✨✨
 - 🐍 Python: ✨✨✨
+- 🗄️ MySQL: ✨✨
+- 🐘 PHP: ✨✨
+- ☁️ Google Cloud Platform: ✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
 - 📄 HTML/CSS: ✨✨✨✨
 - 🧠 React.js: ✨
