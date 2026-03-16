@@ -76,6 +76,21 @@ I'm a back-end developer with a background in business, finance and media produc
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+</a>
 <!--  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -105,12 +120,12 @@ I'm a back-end developer with a background in business, finance and media produc
   </a>
 </p>
 
-- 👾 C: ✨✨✨
 - ⚙️ C++: ✨✨✨
-- 🐍 Python: ✨✨
+- 👾 C: ✨✨✨
+- 💡 TypeScript/JavaScript: ✨✨✨
+- 🐍 Python: ✨✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
-- 📄 HTML/CSS: ✨✨
-- 💡 JavaScript: ✨
+- 📄 HTML/CSS: ✨✨✨✨
 - 🧠 React.js: ✨
 <!-- - 🔧 ASP.NET Core: ✨
 -->
