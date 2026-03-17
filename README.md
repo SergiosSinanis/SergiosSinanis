@@ -149,7 +149,7 @@ I'm a back-end developer with a background in business, finance and media produc
 ---
 
 - ⚙️ System & API architecture (client-server-database patterns, REST API design, and service separation)
-- 🛡️ Network security architecture (firewalls, ports, TLS, secure protocols)
+- 🛡️ Network security systems (firewalls, ports, TLS, secure protocols)
 - 🔍 Containerized service environments & dependency isolation using Docker  
 - 📡 Application deployment & cloud operations (end-to-end deployment, configurations, backup, and security on cloud)
 - 🔗 Load balancing & reverse proxy fundamentals
