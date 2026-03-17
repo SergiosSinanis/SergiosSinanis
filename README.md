@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergios-sinanis/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sergio.sinanis@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/1158834543353151599)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white&style=flat-square)](https://linktr.ee/SergioSinanis)
 <!-- [![CodinGame](https://img.shields.io/badge/CodinGame-00C7B7?logo=codingame&logoColor=white&style=flat-square)](https://www.codingame.com/profile/a93e22eb1157401723b3617a7d87669f2853436) -->
 
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
