@@ -19,7 +19,7 @@
 
 Full-Stack Developer with a strong foundation in C/C++ and software engineering, trained at [42 École Paris](https://42.fr/en/alumni/).
 
-Currently working in the industry designing and building web applications while deepening my expertise in system architecture and cybersecurity. I focus on developing scalable, secure apps and systems, while expanding in infrastructure, cloud and network security to deliver end-to-end, production-ready solutions from backend to deployment.
+Currently working in the industry designing and building web applications while deepening my expertise in system architecture and cybersecurity. I focus on developing scalable, secure apps and systems, while expanding into infrastructure, cloud and network security to deliver end-to-end, production-ready solutions from backend to deployment.
 
 With a background in business, finance, and media production, I bring both technical and strategic thinking to my projects.
 
