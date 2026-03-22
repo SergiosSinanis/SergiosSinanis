@@ -17,7 +17,13 @@
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
 ---
 
-I'm a Full Stack developer with a background in business, finance and media production. Currently expanding my technical skills and gaining hands-on experience at 42 Ecole Paris, I thrive on challenges and continuous learning, applying my skills to develop innovative solutions. Having a strong interest in Web3, infrastructre and cybersecurity, I'm always looking for exciting projects to contribute to!
+Full-Stack Developer with a strong foundation in C/C++ and modern web technologies, currently working in the industry while expanding expertise in system architecture and cybersecurity.
+
+Passionate about building scalable, secure, and efficient applications, I’m also developing skills in infrastructure and cloud environments with the goal of delivering end-to-end solutions.
+
+With a background in business, finance, and media production, I bring both technical and strategic thinking to every project.
+
+Interests: Web Development, System Architecture, Cybersecurity, Cloud, Web3.
 
 <strong style="font-size: 32px;">🖥️ **Languages & Tools**</strong>  
 ---
