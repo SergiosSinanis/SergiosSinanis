@@ -98,7 +98,7 @@ Interests: Web Development, System Architecture, Cybersecurity, Cloud, Web3.
 - ⚙️ C++: ✨✨✨
 - 👾 C: ✨✨✨
 - 🐍 Python: ✨✨✨
-- 💡 TypeScript/JavaScript: ✨✨✨
+- 💡 TypeScript / JavaScript: ✨✨✨
 - 🧠 Next.js / React.js: ✨✨
 - 🗄️ MySQL: ✨✨
 - 🐘 PHP: ✨✨
