@@ -98,15 +98,15 @@ Interests: Web Development, System Architecture, Cybersecurity, Cloud, Web3.
 - ⚙️ C++: ✨✨✨
 - 👾 C: ✨✨✨
 - 🐍 Python: ✨✨✨
-- 💡 TypeScript/JavaScript: ✨✨
+- 💡 TypeScript/JavaScript: ✨✨✨
+- 🧠 Next.js / React.js: ✨✨
 - 🗄️ MySQL: ✨✨
 - 🐘 PHP: ✨✨
 - ☁️ Google Cloud Platform: ✨✨
 - 💻 C# (.NET 7 / .NET 8): ✨✨
-- 📄 HTML/CSS: ✨✨
+- 📄 HTML/CSS: ✨✨✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
-<!-- - 🧠 React.js: ✨
-- 🔧 ASP.NET Core: ✨
+<!-- - 🔧 ASP.NET Core: ✨
 -->
 
 <strong style="font-size: 32px;">🌐 Network & Infrastructure Architecture</strong>
