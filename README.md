@@ -17,13 +17,13 @@
 <strong style="font-size: 32px;">🚀 Professional Summary</strong> 
 ---
 
-Full-Stack Developer with a strong foundation in C/C++ and software engineering, trained at [42 École Paris](https://42.fr/en/alumni/).
+Full-Stack Web and Mobile Developer with a growing focus on Digital Project and Product Management, trained at [42 École Paris](https://42.fr/en/alumni/) with a strong foundation in C/C++ and software engineering. 
 
-Currently working in the industry designing and building web applications while deepening my expertise in system architecture and cybersecurity. I focus on developing scalable, secure apps and systems, while expanding into infrastructure, cloud and network security to deliver end-to-end, production-ready solutions from backend to deployment.
+Currently working in the industry designing and building web & mobile applications while deepening my expertise in product management, system architecture and cybersecurity. I focus on developing scalable, secure apps and systems, while expanding into infrastructure, cloud and network security to deliver end-to-end, production-ready solutions from backend to deployment.
 
 With a background in business, finance, and media production, I bring both technical and strategic thinking to my projects.
 
-Interests: Web Development, System Architecture, Cybersecurity, Cloud, Web3.
+Interests: Project Management, Web & Mobile Development, System Architecture, Cloud, Web3.
 
 <strong style="font-size: 32px;">🖥️ **Languages & Tools**</strong>  
 ---
