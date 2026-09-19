@@ -101,7 +101,8 @@ Interests: Project Management, Web & Mobile Development, System Architecture, Cl
 - 🐘 PHP: ✨✨
 - 🎯 Dart / Flutter: ✨✨
 - 💡 Node.js : ✨✨✨
-- 🧠 Next.js / React.js: ✨✨
+<!-- - 🧠 Next.js / React.js: ✨✨
+-->
 - 🗄️ SQL / MySQL: ✨✨
 - 🐳 Docker: ✨✨✨
 - ☁️ Google Cloud Platform: ✨✨
