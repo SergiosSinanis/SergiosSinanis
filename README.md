@@ -3,7 +3,7 @@
 <strong style="font-size: 44px;">Hi there! 👋</strong>
 ---
 
-- 🌱 42-Paris
+- 🌱 42 École Paris
 - 🔭 Currently Learning @Linkaband
 - 🌐 BSc Finance
 - 🇫🇷 🇺🇸 🇬🇷
