@@ -101,12 +101,12 @@ Interests: Project Management, Web & Mobile Development, System Architecture, Cl
 - 🐘 PHP: ✨✨
 - 🎯 Dart / Flutter: ✨✨
 - 💡 Node.js : ✨✨✨
-<!-- - 🧠 Next.js / React.js: ✨✨-->
 - 🗄️ SQL / MySQL: ✨✨
 - 🐳 Docker: ✨✨✨
 - ☁️ Google Cloud Platform: ✨✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 <!-- - 🔧 ASP.NET Core: ✨
+ - 🧠 Next.js / React.js: ✨✨
 -->
 
 <strong style="font-size: 32px;">🌐 Network & Infrastructure Architecture</strong>
