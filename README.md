@@ -4,7 +4,7 @@
 ---
 
 - 🌱 42-Paris
-- 🔭 Currently Learning
+- 🔭 Currently Learning @Linkaband
 - 🌐 BSc Finance
 - 🇫🇷 🇺🇸 🇬🇷
 
