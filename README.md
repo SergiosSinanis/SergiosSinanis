@@ -5,7 +5,7 @@
 
 - 🌱 42-Paris
 - 🔭 Currently Learning
-- 🌎 BSc Finance
+- 🌐 BSc Finance
 - 🇫🇷 🇺🇸 🇬🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergios-sinanis/)
@@ -95,15 +95,16 @@ Interests: Project Management, Web & Mobile Development, System Architecture, Cl
 </tr>
 </table>
 
-- 💡 TypeScript / JavaScript: ✨✨✨
+- 💻 TypeScript / JavaScript: ✨✨✨
 - 🐍 Python: ✨✨✨
-- ⚙️ C++: ✨✨✨
-- 👾 C: ✨✨✨
+- ⚙️ C / C++: ✨✨✨
 - 🐘 PHP: ✨✨
-- ☁️ Google Cloud Platform: ✨✨
+- 🎯 Dart / Flutter: ✨✨
+- 💡 Node.js : ✨✨✨
 - 🧠 Next.js / React.js: ✨✨
-- 🗄️ MySQL: ✨✨
-- 💻 C# (.NET 7 / .NET 8): ✨✨
+- 🗄️ SQL / MySQL: ✨✨
+- 🐳 Docker: ✨✨✨
+- ☁️ Google Cloud Platform: ✨✨
 - 🐧 Unix/Linux 🍏 macOS 🪟 Windows 
 <!-- - 🔧 ASP.NET Core: ✨
 -->
